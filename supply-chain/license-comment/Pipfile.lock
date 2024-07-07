@@ -1,0 +1,8 @@
+{
+    "default": {
+        "certifi": {
+            "version": "==2023.7.22"
+        }
+    },
+    "develop": {}
+}
